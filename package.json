@@ -7,7 +7,9 @@
     "test": "test"
   },
   "dependencies": {
-    "grunt": "^1.0.1"
+    "grunt": "^1.0.1",
+    "jquery": "^3.1.1",
+    "loadash": "0.0.1"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "^1.1.0",
