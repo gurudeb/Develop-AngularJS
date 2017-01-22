@@ -1,0 +1,28 @@
+{
+  "name": "angularjs-by-pankaj",
+  "version": "0.1.0",
+  "description": "Develop AngularJS from scratch",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurudeb/Develop-AngularJS.git"
+  },
+  "author": "Pankaj Mondal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurudeb/Develop-AngularJS/issues"
+  },
+  "homepage": "https://github.com/gurudeb/Develop-AngularJS#readme"
+}
